@@ -5,7 +5,6 @@ image==1.5.33
 keras==2.9.0
 matplotlib==3.5.2
 numpy==1.22.3
-opencv-python-headless==4.6.0.66
 pandas==1.4.3
 Pyrebase4==4.5.0
 requests==2.27.1
